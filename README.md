@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ask Scriptures AI - Advanced Spiritual Intelligence
 
 A modern React-based web application that provides personalized spiritual guidance based on the Bhagavad Gita, featuring advanced AI capabilities, memory systems, and interactive chat interfaces.
@@ -243,3 +244,6 @@ For support and questions:
 ---
 
 **🕉️ May this application serve as a bridge to deeper spiritual understanding and wisdom.**
+=======
+# scripture_Ai
+>>>>>>> c93cb842066a416d0ce01b1e774e1716ab014ee6
